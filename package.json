@@ -4,7 +4,7 @@
   "description": "NodeJS Playground - Where we do a lot of NodesJS related experiments",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "Hariprasad",
   "license": "MIT"
