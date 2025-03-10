@@ -4,11 +4,12 @@
   "description": "NodeJS Playground - Where we do a lot of NodesJS related experiments",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "npx ts-node src/index.ts"
   },
   "author": "Hariprasad",
   "license": "MIT",
   "devDependencies": {
+    "@types/node": "^22.13.10",
     "typescript": "^5.8.2"
   }
 }
